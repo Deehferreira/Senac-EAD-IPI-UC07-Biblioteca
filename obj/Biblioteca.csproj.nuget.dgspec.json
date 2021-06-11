@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "c:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\ddcf1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\ddcf1\\OneDrive\\Área de Trabalho\\Novo Senac\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
