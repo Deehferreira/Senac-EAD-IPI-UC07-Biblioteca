@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Biblioteca.Migrations
 {
     [DbContext(typeof(BibliotecaContext))]
-    [Migration("20210620183213_ChangeVarchar.cs")]
-    partial class ChangeVarcharcs
+    [Migration("20210620223020_BibliotecaCContextModelSnapshot.cs")]
+    partial class BibliotecaCContextModelSnapshotcs
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
